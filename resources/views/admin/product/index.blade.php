@@ -12,7 +12,7 @@ product
 <!-- ########## START: MAIN PANEL ########## -->
 <div class="sl-mainpanel">
     <nav class="breadcrumb sl-breadcrumb">
-    <a class="breadcrumb-item" href="#">Dashboard</a>
+    <a class="breadcrumb-item" href="#">Dashboard abc</a>
     </nav>
     <div class="sl-pagebody">
         <div class="row">
